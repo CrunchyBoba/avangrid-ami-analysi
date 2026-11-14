@@ -1,0 +1,10 @@
+segment,customers,annual_kwh,kw_summer_peak,kw_winter_peak,share_of_customers
+High-electrified (2+ techs),284,18461.405,2.968,4.614,0.008
+No tech: central AC,8082,9105.323,3.695,1.452,0.239
+No tech: no AC,7337,4844.99,0.817,0.942,0.217
+No tech: room/partial AC,11632,6479.643,2.015,1.15,0.344
+Seasonal (summer-vacant),1007,8992.331,0.493,3.078,0.03
+Seasonal (winter-vacant),474,3888.913,1.817,0.35,0.014
+Single-tech: EV,491,13067.548,3.642,1.902,0.015
+Single-tech: Electric heat,4242,14572.986,2.432,3.917,0.126
+Single-tech: Solar,238,6672.199,1.752,1.428,0.007

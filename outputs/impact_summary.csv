@@ -1,0 +1,22 @@
+metric,value
+homes analysed,33313.0
+Tier 1 demand response: summer MW per 100k homes,27.298
+Tier 1 demand response: winter MW per 100k homes,2.478
+Battery program size (top 3% of homes),999.0
+Battery program: summer MW per 100k homes,8.007
+Battery program: winter MW per 100k homes,9.829
+Battery program: summer kW relief per battery,2.67
+Battery program: winter kW relief per battery,3.278
+Battery program: kWh shifted per battery per year,6046.865
+Battery program: home max kW before,12.506
+Battery program: home max kW after,12.05
+Utility value per battery $/yr (system average),225.474
+Utility value per battery $/yr (constrained area),373.498
+Customer ESS pay per battery $/yr,336.0
+Customer energy-loss cost per battery $/yr,155.281
+Battery installed cost $,22498.56
+NYSERDA rebate $,4032.0
+Level 2 EV homes (each adds more than 3 kVA),570.0
+Level 2 EV homes: battery relief at summer peak (kW),2.193
+Solar homes,393.0
+Solar homes: battery kWh per year that solar could charge,2823.314

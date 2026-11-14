@@ -1,0 +1,5 @@
+tier,homes,battery_relief_summer_kw,battery_relief_winter_kw,dr_summer_kw,dr_winter_kw,utility_value
+Tier 0: monitor,14130,0.852,0.786,0.145,0.022,65.91
+Tier 1: demand response only,12102,1.574,1.027,0.751,0.068,108.831
+Tier 2: battery + demand response,6820,2.122,2.019,1.047,0.374,164.629
+Tier 2s: solar + battery,261,1.014,1.1,0.261,0.108,83.564

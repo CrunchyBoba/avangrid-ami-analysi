@@ -1,0 +1,10 @@
+if_home_has,then_has,rate_given,base_rate,lift,source
+solar,ev,0.149,0.022,6.836,our classifiers
+ev,solar,0.077,0.011,6.836,our classifiers
+ev,electric_heat,0.248,0.139,1.787,our classifiers
+electric_heat,ev,0.039,0.022,1.787,our classifiers
+solar,electric_heat,0.235,0.139,1.691,our classifiers
+central_ac,ev,0.029,0.022,1.333,our classifiers
+solar,EV,0.138,0.023,5.917,Avangrid label lists
+solar,heat pump,0.12,0.012,10.256,Avangrid label lists
+heat pump,EV,0.4,0.023,17.119,Avangrid label lists
